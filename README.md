@@ -14,7 +14,6 @@
 
 - [dsh-soul](https://github.com/Yur0918/dsh-soul)：人设 / 记忆 / 审计插件，含确认槽与 append-only 审计。
 - [headless-frontend-check](https://github.com/Yur0918/headless-frontend-check)：把「前端看着没问题」变成可断言的浏览器校验。
-- [mail-batch-sender](https://github.com/Yur0918/mail-batch-sender)：本机使用的邮件批量发送小工具。
 
 ---
 
